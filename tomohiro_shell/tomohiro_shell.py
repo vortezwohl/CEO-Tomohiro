@@ -85,7 +85,7 @@ def main():
     query = str()
     if len(sys.argv) > 1:
         for arg in sys.argv[1:]:
-            query += arg
+            query += f'{arg} '
     if query == '':
         query = 'Introduce yourself by only using tool named "find_information_about_the_assistant".'
     try:
