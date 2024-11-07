@@ -8,7 +8,7 @@ with open("LICENSE", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="ceo-tomohiro",
-    version='0.0.1-beta',
+    version='0.0.2-beta',
     author="vortezwohl",
     author_email="vortez.wohl@gmail.com",
     description="Tomohiro is an assistant in your shell.",
