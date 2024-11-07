@@ -1,5 +1,6 @@
 from datetime import datetime
 
+
 def get_current_datetime(**kwargs) -> str:
     """
         What does this function do: Tell current date and time in a formatted string.
